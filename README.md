@@ -37,3 +37,19 @@
 
 ## 🎮 Demo
 🔗 [Live Game Website](https://www.sequencess.com) 
+
+---
+
+## ⚙️ Request Flow
+
+The diagram below illustrates how requests are handled in the Sequence game:
+
+- **Normal Page Load:**  
+  When a user visits the site, Nginx serves the React static files (`/client/dist`).  
+  The browser loads the React bundle and starts the game in the client’s browser.  
+
+- **WebSocket Connection:**  
+  When the client initiates a WebSocket connection (`/ws`), Nginx proxies the request to the Node.js backend.  
+  The Node.js server (with Socket.io) handles the handshake and establishes a real-time WebSocket connection for gameplay.  
+
+![Request Flow Diagram](./assets/request_flow.png)
