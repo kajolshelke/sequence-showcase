@@ -38,6 +38,10 @@
 ## 🎮 Demo
 🔗 [Live Game Website](https://www.sequencess.com) 
 
+Watch the gameplay video below to see how the Sequence game works in real time:
+
+[Gameplay Demo](./assets/sequence_gameplay_demo.mp4)
+
 ---
 
 ## ⚙️ Request Flow
