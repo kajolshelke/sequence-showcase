@@ -40,7 +40,8 @@
 
 Watch the gameplay video below to see how the Sequence game works in real time:
 
-[Gameplay Demo](./assets/sequence_gameplay_demo.mp4)
+[Download Gameplay Demo](https://github.com/kajolshelke/sequence-showcase/raw/main/assets/sequence_gameplay_demo.mp4)
+
 
 ---
 
