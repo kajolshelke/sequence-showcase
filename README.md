@@ -1,3 +1,6 @@
+
+![Sequence Game Logo](./assets/sequence_logo.png)
+
 # Sequence Showcase ♠
 
 🚀 Showcase of a **real-time multiplayer Sequence board game** built with **React, TypeScript, Node.js, and WebSockets**.  
